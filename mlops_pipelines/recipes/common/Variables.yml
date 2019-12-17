@@ -11,7 +11,7 @@ variables:
 
   #Configuration information
   AML_COMPUTE_SKU: 'STANDARD_DS4_V2'
-  AML_COMPUTE_CLUSTER: 'amlcluster'
+  AML_COMPUTE_CLUSTER: 'mamacluster'
   AKS_CLUSTER: 'mamaakscluster'
   LOCATION: 'eastus2'
   MODEL_NAME: 'risk-model'
